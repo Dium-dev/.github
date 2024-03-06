@@ -1,2 +1,2 @@
-# .github
-Dium developers information
+<h1 align="center">Hi 👋, Dium developers</h1>
+
